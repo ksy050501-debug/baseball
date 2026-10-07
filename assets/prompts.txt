@@ -1,0 +1,17 @@
+BUILT-IN IMAGEGEN PROMPTS
+
+STADIUM
+Use case: stylized-concept
+Asset type: 2D baseball videogame stadium background, landscape 1536x1024.
+Primary request: High-quality retro-modern cartoon baseball stadium viewed FROM THE PITCHER MOUND toward home plate, low-medium camera angled slightly down. Upper half shows stadium roof and floodlights and stands completely FULL of cheering spectators. Lower half vivid green grass. Home plate and its dirt oval centered at 70% image width, 62% height. Pitcher mound dirt at 35% width, 85% height. Cinematic cartoon sports videogame illustration, crisp bold shapes, navy accents, sunlit emerald grass and warm orange dirt.
+Composition: Support an animated pitcher in foreground-left and batter and catcher in mid-right; leave these spots unobstructed. Home plate is farther away than mound, looking toward spectator stands behind home plate.
+Constraints: NO players on field, NO ball, NO UI, NO text, NO brands, NO watermark. Spectators only in stands. Generate landscape 1536x1024.
+
+PLAYERS
+Use case: stylized-concept
+Asset type: transparent PNG baseball videogame sprite sheet, square overall 1536x1536. EXACT uniform 4 columns x 3 rows, 12 equal 384x512 cells. Ample transparent gutters, no grid lines or labels.
+Style: polished retro-modern 2D cartoon baseball players, crisp outlined shapes, navy and warm orange uniforms, sunlit shading, compatible with cinematic emerald baseball stadium game. Full body every sprite, centered entirely within own cell, identical baseline near cell bottom, consistent character identity and scale in each row. Bats and gloves never cross cell boundaries.
+Row 1: same navy-uniform RIGHT-HANDED pitcher facing RIGHT in all four cells. Column 1 idle holding glove at chest; column 2 raised front leg windup; column 3 throwing right arm release toward right; column 4 follow-through.
+Row 2: same orange-uniform RIGHT-HANDED batter facing LEFT in all four cells. Column 1 ready bat above rear shoulder; column 2 load coil; column 3 swinging bat across body; column 4 completed follow-through.
+Row 3: same navy catcher facing LEFT, catcher mask, mitt and chest protector. Column 1 crouch ready; column 2 crouch catching mitt extended left; column 3 standing; column 4 celebrating glove raised.
+Constraints: TRUE TRANSPARENT BACKGROUND, no ground, no scene, no shadows outside individual sprites, no text, no labels, no numbers, no logo, no watermark. Exactly 12 players in order, 4 equal columns and 3 equal rows.
